@@ -29,7 +29,7 @@ PCIINFO [/?] [/USEBIOS]
   </tr>
   <tr>
     <td><b>/USEBIOS</b></td>
-    <td>Ce paramtre permet d''indiquer qu''il faut utiliser la dtection par le BIOS.</td>
+    <td>Ce paramètre permet d'indiquer qu'il faut utiliser la détection par le BIOS.</td>
   </tr>
 </table>
 
@@ -39,4 +39,4 @@ PCIINFO [/?] [/USEBIOS]
 	<li>Par défaut, il effectue une détection à partir de l'électronique, vous devez donc indiquer avec le paramètre /USEBIOS pour ne pas qu'il utilise des accès directes.</li>
 	<li>Les logiciels proposés dans cette suite de commande sont développés pour le système d'exploitation DOS.</li>
 </ul>
-R
+
