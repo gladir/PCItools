@@ -15,3 +15,28 @@ Voici la liste des différents fichiers proposés dans PCItools :
 			<td>Cette commande permet de rechercher les périphériques PCI installé sur le micro-ordinateur.</td>
 		</tr>
 </table>
+
+<h3>Syntaxe</h3>
+
+PCIINFO [/?] [/USEBIOS]
+
+<h3>Paramètres</h3>
+
+<table>
+  <tr>
+    <th>Nom</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><b>/USEBIOS</b></td>
+    <td>Ce paramtre permet d''indiquer qu''il faut utiliser la dtection par le BIOS.</td>
+  </tr>
+</table>
+
+<h3>Remarques</h3>
+
+<ul>
+	<li>Par défaut, il effectue une détection à partir de l'électronique, vous devez donc indiquer avec le paramètre /USEBIOS pour ne pas qu'il utilise des accès directes.</li>
+	<li>Les logiciels proposés dans cette suite de commande sont développés pour le système d'exploitation DOS.</li>
+</ul>
+R
